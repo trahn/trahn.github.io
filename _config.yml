@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:               'Till Rahn'
-tagline:             'A personal blog about everything and nothing'
+tagline:             'A personal blog about nothing and all'
 description:         'This blog contains thoughts and topics close to me. It serves as a personal reflection space and accompanies me during whatever I am currently pursuing.'
 url:                 http://www.tillrahn.com
 baseurl:             http://www.tillrahn.com/
