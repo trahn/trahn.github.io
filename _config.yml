@@ -12,14 +12,19 @@ relative_permalinks: true
 title:               'Till Rahn'
 tagline:             'A personal blog about everything and nothing'
 description:         'This blog contains thoughts and topics close to me. It serves as a personal reflection space and accompanies me during whatever I am currently pursuing.'
+<<<<<<< HEAD
 url:                 http://www.tillrahn.com
 baseurl:             http://www.tillrahn.com/
+=======
+url:                 http://tillrahn.com
+baseurl:             /
+>>>>>>> c65c8937fdb5bb61de3bb5c9faa07b75656cf04a
 paginate:            5
 
 # About/contact
 author:
   name:              Till Rahn
-  url:               http://www.tillrahn.com
+  url:               http://tillrahn.com
   email:             till.rahn@gmail.com
 
 # Custom vars
