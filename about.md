@@ -18,4 +18,5 @@ Switzerland, since I used to live there for about 6 years. I studied business, e
 On this blog I plan to write about anything that interests me at the time and that I find worth writing about. At the moment I am thinking of writing about culture and travel related topics, coding and personal projects/ideas I am working on, life in general, education, work, and maybe some politics. As you see my blog's topics are likely to be quite broad in scope.
 
 Cheers
+
 Till
