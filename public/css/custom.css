@@ -1,0 +1,14 @@
+/* youtube */
+
+.youtube_video {
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+
+/* emoji */
+
+.emoji {
+	display: inline;
+	margin: 0 0 0.5rem;
+}

@@ -9,10 +9,10 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Blog
-tagline:             'A personal blog about nothing and all'
-description:         'Dunno yet...'
-url:                 http://trahn.github.io
+title:               'Till Rahn'
+tagline:             'A personal blog about everything and nothing'
+description:         'This blog contains thoughts and topics close to me. It serves as a personal reflection space and accompanies me during whatever I am currently pursuing.'
+url:                 http://www.tillrahn.com
 baseurl:             /
 paginate:            5
 
@@ -24,3 +24,6 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+gems:
+  - jemoji
