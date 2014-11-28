@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fucking personal wisdom'
+title: 'Fucking Personal Wisdom'
 shortinfo: 'Just some personal thoughts. Careful: not safe for kids.'
 ---
 

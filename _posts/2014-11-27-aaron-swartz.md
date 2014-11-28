@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'United States v. Aaron Swartz: The Story of a Courageous Young Man.'
+title: 'United States v. Aaron Swartz - The Story of a Courageous Young Man'
 shortinfo: 'On January 11, 2013, a 26-year-old was found dead in his apartment in New York. His name was Aaron Swartz and he committed suicide in wake of facing a prison sentence of up to 35 years and a fine of up to one million dollar.'
 ---
 
