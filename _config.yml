@@ -12,8 +12,6 @@ relative_permalinks: true
 title:               'Till Rahn'
 tagline:             'A personal blog about nothing and all'
 description:         'Whatever.'
-url:                 http://www.tillrahn.com
-baseurl:             http://www.tillrahn.com/
 url:                 http://tillrahn.com
 baseurl:             /
 paginate:            5
