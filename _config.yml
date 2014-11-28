@@ -13,7 +13,7 @@ title:               'Till Rahn'
 tagline:             'A personal blog about nothing and all'
 description:         'Whatever.'
 url:                 http://tillrahn.com
-baseurl:             /
+baseurl:			 /
 paginate:            5
 
 # About/contact
