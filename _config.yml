@@ -15,7 +15,7 @@ description:         'Whatever.'
 url:                 http://www.tillrahn.com
 baseurl:             http://www.tillrahn.com/
 url:                 http://tillrahn.com
-baseurl:             '/'
+baseurl:             http://tillrahn.com/
 paginate:            5
 
 # About/contact
