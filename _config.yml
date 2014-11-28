@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:               'Till Rahn'
-tagline:             'A personal blog about nothing and all'
+tagline:             'A personal blog about anything and nothing'
 description:         'Whatever.'
 url:                 http://tillrahn.com
 baseurl:			 /
