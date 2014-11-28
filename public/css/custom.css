@@ -12,3 +12,10 @@
 	display: inline;
 	margin: 0 0 0.5rem;
 }
+
+/* sidebar */
+.sidebar-logo img {
+ 	-webkit-border-radius: 50%;
+	width: 160px;
+	margin: 10% auto;
+}
