@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let me inspire you!
+title: Let Me Inspire You!
 ---
 
 There is something about some inspiring speeches that gets to me. I find myself watching them time and again. I guess they often contain lessons or ideas that I want to - or already do - incorporate in my own life.
