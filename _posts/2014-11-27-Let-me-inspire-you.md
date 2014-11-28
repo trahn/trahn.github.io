@@ -3,7 +3,7 @@ layout: post
 title: Let Me Inspire You!
 ---
 
-There is something about some inspiring speeches that gets to me. I find myself watching them time and again. I guess they often contain lessons or ideas that I want to - or already do - incorporate in my own life.
+There is something about inspirational speeches that gets to me. I find myself watching them time and again. I guess they often contain lessons or ideas that I want to - or already do - incorporate in my own life.
 
 
 Let me show you right here -  and for the first time publicly :grin: - the speeches that I keep coming back to. All happen to be commencement speeches, which somewhat makes sense as the idea often is to pass on some learned wisdom to the next generation. 
